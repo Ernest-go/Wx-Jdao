@@ -3,7 +3,8 @@
     "pages/classic/classic",
     "components/epsoide/index",
     "pages/book/book",
-    "pages/my/my"
+    "pages/my/my",
+    "pages/book-detail/book-detail"
   ],
   "window": {
     "backgroundTextStyle": "light",
